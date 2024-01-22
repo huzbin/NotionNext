@@ -19,7 +19,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'https://bk.hubb.eu.org',
   HEO_HERO_TITLE_4: 'Welcome',
-  HEO_HERO_TITLE_5: '文章推荐，尽请阅读，新建小站，多多包含。',
+  HEO_HERO_TITLE_5: '迷失的人迷失了，相逢的人会再相逢。',
   HEO_HERO_TITLE_LINK: 'https://bk.hubb.eu.org',
 
   // 英雄区显示三个置顶分类
